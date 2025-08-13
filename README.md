@@ -4,7 +4,7 @@ Sou um **Desenvolvedor Front-end** apaixonado por transformar ideias em produtos
 Atualmente, estou trabalhando com **React.js**, **Next.js** e **TypeScript**, enquanto me aprofundo em **UI/UX modernas** e **otimização de performance**.
 
 🎯 Foco em construir **plataformas SaaS de alto impacto** e **experiências web de próxima geração**.  
-✨ Entusiasta de **Design Systems**, **animações suaves com Framer Motion** e **código limpo e sustentável**.
+✨ Entusiasta de **Design Systems**, **animações suaves** e **código limpo e sustentável**.
 
 🧠 Sempre aprendendo novas tecnologias e boas práticas para continuar evoluindo como dev.
 
